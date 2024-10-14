@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f772cb74bfa538943ad19e22593c21fa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2857
+  packageName: Cartoon Heavy Weights
+  packageVersion: 1.1
+  assetPath: Assets/Cartoon Heavy Weights/CementBlock/BlockBreaker.cs
+  uploadId: 77532

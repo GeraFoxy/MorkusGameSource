@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 91d5e69670b3b06499c8d9bca7cc4e75
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2857
+  packageName: Cartoon Heavy Weights
+  packageVersion: 1.1
+  assetPath: Assets/Cartoon Heavy Weights/Test Scene Resources/Test Scene Scripts/DropWeight.cs
+  uploadId: 77532
